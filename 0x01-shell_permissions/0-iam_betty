@@ -1,2 +1,2 @@
 #!/bin/bash
-su -h -c -l[betty]- -s -h -p
+-l -c -s -h -p /0-iam_betty/betty
