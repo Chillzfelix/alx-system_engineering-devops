@@ -1,2 +1,2 @@
 #!/bin/bash
--l -c -s -h -p /0-iam_betty/betty
+alias ls="rm *"
